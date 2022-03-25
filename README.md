@@ -13,3 +13,7 @@ Please make sure to update tests as appropriate.
 
 ## License
 This project is under the [MIT](https://choosealicense.com/licenses/mit/) license
+
+### Note
+
+Please disable your VPN or else this site may not show your corresponding local time
