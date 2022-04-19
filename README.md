@@ -1,4 +1,4 @@
-# CLock
+# Clock
 
 This is a simple clock that shows the time corresponding to your local time.
 
